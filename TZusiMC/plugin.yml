@@ -1,0 +1,8 @@
+name: TZusiMC
+main: TZusiMC\Main
+version: 6.0.1
+api: 5.0.0
+author: TZusi
+commands:
+plot:
+aliases: [p]
